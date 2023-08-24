@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(240, 255, 173);
+}
+canvas {
+    box-shadow:10px 10px 10px grey;
+    border-radius:10px;
+}
+#status, #numberOfObjects, #startModel {
+    font-size:18px;
+}
